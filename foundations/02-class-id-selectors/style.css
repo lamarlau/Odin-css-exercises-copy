@@ -1,0 +1,9 @@
+.odd-elements {
+    font-family: verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(246, 128, 151);
+  }
+  #first {
+    color: blue;
+    font-size: 32px;
+    font-family: sans-serif;
+  }
