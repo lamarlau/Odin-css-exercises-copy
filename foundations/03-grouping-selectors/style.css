@@ -5,6 +5,6 @@
   .second-button {
     background-color: yellow;
   }
-  button {
+  .first-button, .second-button {
     font-family: Helvetica, "Times New Roman", sans-serif;
   }
