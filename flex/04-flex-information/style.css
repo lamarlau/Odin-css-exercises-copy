@@ -34,8 +34,5 @@ img {
   gap: 52px;
 }
 .barberry, .chili, .pepper, .saffron {
-  display: flex;
   max-width: 200px;
-  flex-wrap: wrap;
-  justify-content: center;
 }
