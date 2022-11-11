@@ -54,6 +54,11 @@ body {
   justify-content: center;
 }
 
+.header-close {
+  display: flex;
+  justify-content: space-between;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
