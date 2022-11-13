@@ -74,10 +74,13 @@ button.cancel {
 }
  
 .rest-div {
-  padding: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
 }
 
 .header-close {
   display: flex;
   justify-content: space-between;
+  padding-bottom: 10px;
 }
+
