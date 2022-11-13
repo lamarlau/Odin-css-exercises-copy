@@ -76,3 +76,8 @@ button.cancel {
 .rest-div {
   padding: 10px;
 }
+
+.header-close {
+  display: flex;
+  justify-content: space-between;
+}
