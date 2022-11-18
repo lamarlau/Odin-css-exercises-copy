@@ -43,5 +43,8 @@ li {
 .header .left-links {
   display: flex;
   gap: 15px;
-  justify-content: flex-start;
+}
+.header .right-links {
+  display: flex;
+  gap: 15px;
 }
