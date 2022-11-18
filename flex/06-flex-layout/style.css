@@ -56,4 +56,5 @@ li {
 .buttons {
   display: flex;
   justify-content: center;
+  gap: 5px;
 }
