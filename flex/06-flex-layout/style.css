@@ -37,14 +37,22 @@ li {
 .footer {
   display: flex;
 }
+
 .header {
   display: flex;
 }
+
 .header .left-links {
   display: flex;
   gap: 15px;
 }
+
 .header .right-links {
   display: flex;
   gap: 15px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
 }
