@@ -58,3 +58,8 @@ li {
   justify-content: center;
   gap: 5px;
 }
+
+.footer .left-links {
+  display: flex;
+  gap: 15px;
+}
