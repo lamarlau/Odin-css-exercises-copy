@@ -63,3 +63,8 @@ li {
   display: flex;
   gap: 15px;
 }
+
+.footer .right-links {
+  display: flex;
+  gap: 15px;
+}
