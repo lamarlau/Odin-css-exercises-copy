@@ -48,6 +48,7 @@ li {
 .header .left-links {
   display: flex;
   gap: 15px;
+  padding-left: 10px;
 }
 
 .header .right-links {
