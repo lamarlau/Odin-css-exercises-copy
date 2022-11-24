@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
 }
 
 img {
@@ -73,4 +74,8 @@ li {
 .footer .right-links {
   display: flex;
   gap: 15px;
+}
+
+ul {
+  display: flex;
 }
