@@ -48,32 +48,10 @@ li {
   justify-content: space-between;
 }
 
-.header .left-links {
-  display: flex;
-  gap: 15px;
-  padding-left: 10px;
-}
-
-.header .right-links {
-  display: flex;
-  gap: 15px;
-}
-
 .buttons {
   display: flex;
   justify-content: center;
   gap: 5px;
-}
-
-.footer .left-links {
-  display: flex;
-  gap: 15px;
-  padding-left: 10px;
-}
-
-.footer .right-links {
-  display: flex;
-  gap: 15px;
 }
 
 ul {
