@@ -36,6 +36,7 @@ a {
 
 li {
   list-style: none;
+  padding: 10px;
 }
 
 .footer {
@@ -60,7 +61,6 @@ ul {
   display: flex;
   margin: 0px;
   padding: 0px;
-  gap: 16px;
 }
 
 .content {
