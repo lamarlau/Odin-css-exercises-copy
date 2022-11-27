@@ -62,3 +62,9 @@ ul {
   padding: 0px;
   gap: 16px;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
