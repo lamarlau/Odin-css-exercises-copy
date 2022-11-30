@@ -34,9 +34,9 @@ a {
   color: #666;
 }
 
-li {
+ul {
+  display: flex;
   list-style: none;
-  padding: 10px;
 }
 
 .footer {
