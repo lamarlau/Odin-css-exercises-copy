@@ -44,7 +44,7 @@ ul {
 
 .footer {
   display: flex;
-  background-color: #eeeeee;
+  background: #eeeeee;
   justify-content: space-between;
   padding: 16px;
   
@@ -56,23 +56,10 @@ ul {
   padding: 16px;
 }
 
-.buttons {
-  display: flex;
-  justify-content: center;
-  gap: 5px;
-}
-
-ul {
-  display: flex;
-  margin: 0px;
-  padding: 0px;
-}
-
 .content {
   flex: 1;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   flex-direction: column;
 }
