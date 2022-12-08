@@ -30,6 +30,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  padding: 16px;
 }
 
 .card {
