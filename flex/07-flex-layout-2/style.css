@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .header {
@@ -31,7 +30,7 @@ body {
   width: 300px;
   background: royalblue;
   padding: 16px;
-  
+
 }
 
 .card {
