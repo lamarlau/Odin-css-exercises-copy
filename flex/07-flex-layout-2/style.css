@@ -44,11 +44,6 @@ body {
   border-radius: 4px;
 }
 
-.content {
-  display: flex;
-
-}
-
 a {
   text-decoration: none;
   color: white;
