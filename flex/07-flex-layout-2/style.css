@@ -35,7 +35,7 @@ body {
   width: 300px;
   background: royalblue;
   padding: 16px;
-  flex: 1;
+  flex-shrink: 0;
 }
 
 .card {
