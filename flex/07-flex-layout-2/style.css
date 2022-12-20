@@ -54,6 +54,7 @@ a {
 
 li {
   list-style: none;
+  margin-bottom: 16px;
 }
 
 .container {
