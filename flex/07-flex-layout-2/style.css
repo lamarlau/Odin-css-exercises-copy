@@ -62,3 +62,7 @@ li {
   flex-wrap: wrap;
   padding: 32px;
 }
+
+ul {
+  margin: 0;
+}
